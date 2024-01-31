@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43d24e5a-ba80-4a17-8665-38088416576a" name="Changes" comment="12332" />
+    <list default="true" id="43d24e5a-ba80-4a17-8665-38088416576a" name="Changes" comment="мой тг бот" />
     <list id="08754ccf-8e71-4013-8e63-aa6c4c2dd6bb" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +80,37 @@
       <option name="presentableId" value="Default" />
       <updated>1706699509060</updated>
     </task>
+    <task id="LOCAL-00001" summary="12332">
+      <option name="closed" value="true" />
+      <created>1706716059729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706716059729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12332">
+      <option name="closed" value="true" />
+      <created>1706716140197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706716140197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="мой тг бот">
+      <option name="closed" value="true" />
+      <created>1706716420554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706716420554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый бот тг" />
-    <option name="LAST_COMMIT_MESSAGE" value="первый бот тг" />
+    <MESSAGE value="12332" />
+    <MESSAGE value="мой тг бот" />
+    <option name="LAST_COMMIT_MESSAGE" value="мой тг бот" />
   </component>
 </project>
